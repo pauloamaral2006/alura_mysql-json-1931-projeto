@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>MySQL e JSON: persistindo JSON de maneira eficiente</h1>
 
 ## ℹ️ Sobre
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
