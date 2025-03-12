@@ -1,7 +1,7 @@
 <h1>MySQL e JSON: persistindo JSON de maneira eficiente</h1>
 
 ## ℹ️ Sobre
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
 
 ## 📘Ementa
 
