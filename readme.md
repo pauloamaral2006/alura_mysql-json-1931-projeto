@@ -1,4 +1,4 @@
-<h1>MySQL e JSON: persistindo JSON de maneira eficiente</h1>
+<h1>Git e GitHub - Compartilhando e colaborando em projetos  + Dominando controle de versão de código</h1>
 
 ## ℹ️ Sobre
 <p>Projeto utilizado no curso para aprendizado das técnicas e melhores práticas.</p>
