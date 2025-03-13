@@ -5,6 +5,7 @@
 
 ## 📘Ementa
 
+### MySQL e JSON : Persistindo JSON de maneira eficiente
 - Entender as diferenças principais entre SQL e NoSQL
 - Trabalhar com JSON no MySQL
 - Inserir e atualizar documentos JSON
